@@ -5,7 +5,6 @@ input [
   {
     name: "input"
     data_type: TYPE_FP32
-    format: FORMAT_NHWC
     dims: [3, 224, 224]
   }
 ]
